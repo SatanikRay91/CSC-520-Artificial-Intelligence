@@ -1,5 +1,5 @@
 # CSC-520-Artificial-Intelligence
-Coding assignments for graduate course during Fall 2018
+Coding assignment for graduate course during Fall 2018
 
 This question concerns route-finding, with comparison of several search algorithms. This time, we're in the U.S. Here's jpg of the map below.
 
